@@ -3,23 +3,20 @@ Outerspace
 
 A clean cut UI theme for Sublime Text 2 bastardised from the source code of [Soda] and [Centurion] and [Spacegray].
 
-Outerspace was made out of a want for less UI and more code. It's so minimal you can barely see it.
+Outerspace was made out of a want for a bit higher contrast than other minimal themes. And also because I kept switching themes throughout the day.
+
 No gradients, no 1px edges and not a thousand different icon sprites. Just color, shape and 14 [icons].
-
-![Outerspace theme](https://raw.github.com/allanhortle/Outerspace/master/res/Preview.png)
-
----
 
 Installation
 ------------------------------------------------------------------------
-###Package Control
+### Package Control
 
 Just install it and make sure to update your `Settings - User` file with:
 
     "theme": "Outerspace.sublime-theme"
 
 
-###Manual
+### Manual
 
 Clone it into your packages directory. These are OSX paths because I'm lazy like that. For Windows/Other just substitute your paths like a boss.
 
@@ -50,7 +47,7 @@ I call mine `Theme - Outerspace_dev`. Im undecided as to whether or not this is 
 
 _* Side note: if you call your folder something like `AAAOuterspaceRadColor` it might not take precedence over the original package. So if you do have two copies give it a name that is alphabetically lower than `Theme - Outerspace`._
 
-###The actual instructions bit:
+### The actual instructions bit:
 
 1. `cd` into the theme directory.
 2. `npm install` To install the grunt dependancies.3.
