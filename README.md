@@ -1,7 +1,7 @@
 Outerspace
 =========
 
-A clean cut UI theme for Sublime Text 2 bastardised from the source code of [Soda] and [Centurion].
+A clean cut UI theme for Sublime Text 2 bastardised from the source code of [Soda] and [Centurion] and [Spacegray].
 
 Outerspace was made out of a want for less UI and more code. It's so minimal you can barely see it.
 No gradients, no 1px edges and not a thousand different icon sprites. Just color, shape and 14 [icons].
@@ -84,4 +84,5 @@ If you like the theme and  find some bugs please do let me know. I've been testi
 [grunt]: http://gruntjs.com/ "It really is the business"
 [soda]: https://github.com/buymeasoda/soda-theme/
 [centurion]: https://github.com/allanhortle/Centurion
+[spacegray]: https://github.com/kkga/spacegray
 [icons]: http://www.glyphicons.com/
