@@ -13,7 +13,7 @@
     "tab_overlap":0,
     "tab_width": 180,
     "tab_min_width": 45,
-    "tab_height": 28,
+    "tab_height": 32,
     "mouse_wheel_switch": false
 },
 {
@@ -28,7 +28,7 @@
     "max_margin_trim": 0,
     "hit_test_level": 0,
     "layer0.texture": "",
-    "layer0.tint": [40,44,48],
+    "layer0.tint": [52, 54, 58],
     "layer0.inner_margin": [5,5],
     "layer0.opacity": 1
 },
@@ -42,7 +42,9 @@
 {
     "class": "tab_control",
     "attributes": ["hover"],
-    "layer0.texture": ""
+    "layer0.texture": "",
+    "layer0.tint": [30,30,30]
+
 },
 // Tab active state
 {
